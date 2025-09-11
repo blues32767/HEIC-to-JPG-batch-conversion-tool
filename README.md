@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-lightgrey.svg)]()
 
-**Read this in other languages: [English](README_EN.md) | [中文](README.md)**
 
 一款簡單易用的HEIC照片批次轉換工具，支援多執行緒加速處理，可將手機拍攝的HEIC格式照片快速轉換為JPG格式。
 
