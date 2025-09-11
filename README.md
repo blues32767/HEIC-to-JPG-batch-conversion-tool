@@ -17,4 +17,7 @@
 - 🤖 **智慧模式** - 自動選擇最適合的轉換模式
 - 🎛️ **多種模式** - 慢速(穩定)、快速(推薦)、智慧模式
 
-## 📦 執行
+## 📦 下載後執行
+https://github.com/blues32767/-HEIC-JPG/releases/download/heictojpg-plue-v1/HEIC.JPG.exe
+
+因維簡單封裝，所以一定會被系統防毒偵測，請把防毒關閉，或直接使用py的程式碼。
